@@ -1,0 +1,4 @@
+node_modules/
+/functions/YOUR_Firebase_SECRET_KEY_NAME.json
+.firebaserc
+.tiger
